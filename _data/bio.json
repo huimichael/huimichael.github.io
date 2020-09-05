@@ -108,8 +108,7 @@
   "references": [
     {
       "name": "Alvin Dino",
-      "position": "McDonalds Store Manager",
-      "email": "haw.23347@us.stores.mcd.com"
+      "reference": "McDonalds Store Manager"
     }
   ]
 }
