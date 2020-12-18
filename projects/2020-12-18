@@ -1,0 +1,17 @@
+---
+layout: project
+type: project
+image: images/ManoaTunesLanding.jpeg
+title: Manoa Tunes
+permalink: projects/Manoa-Tunes
+# All dates must be YYYY-MM-DD format!
+date: 2020-12-18
+labels:
+  - Software Engineering
+  - Web Development
+  - Meteor
+  - Database
+  - HTML/CSS
+  - Javascript
+summary: This project is the final project for ICS 314. The concept behind is project is to create an application for people who have similar musical talents and interests to come together.
+---
