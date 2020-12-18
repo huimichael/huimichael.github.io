@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Programming",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS"
       ]
     },
     {
@@ -88,6 +89,18 @@
       "highlights": [
         "Done cashier work and order taking to a great extent",
         "Trained and supervised new employees"
+      ]
+    },
+    {
+      "company": "UH Manoa Campus Center Ticket, Information & ID Office",
+      "position": "Service Associate",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "Helping students who have problems with ID's and meal plans",
+      "highlights": [
+        "Done cashier work",
+        "Make and recieve phone calls"
       ]
     }
   ],
