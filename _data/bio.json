@@ -49,10 +49,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C/C++",
         "Java",
-        "Javascript",
+        "Javascript(Meteor, MongoDB, Semantic UI)",
         "HTML/CSS"
       ]
     },
