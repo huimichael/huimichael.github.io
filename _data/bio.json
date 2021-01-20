@@ -77,6 +77,7 @@
       "courses": [
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering",
+        "ICS 321: Database Systems",
         "ICS 390: Computing Ethics for LAs",
         "MATH 372: Probability and Statistics"
       ]
@@ -84,15 +85,15 @@
   ],
   "work": [
     {
-      "company": "McDonald's Employee",
-      "position": "Crew Worker",
+      "company": "UH Manoa ICS Department",
+      "position": "Lab Assistant",
       "website": "",
-      "startDate": "2018-06-20",
+      "startDate": "2021",
       "endDate": "Present",
-      "summary": "Interacting extensively with customers, taking order and serving food",
+      "summary": "Learning Assistant for the course ICS 111: Introduction to Computer Science I",
       "highlights": [
-        "Done cashier work and order taking to a great extent",
-        "Trained and supervised new employees"
+        "Assisting students with questions regarding homework and course material",
+        "Leading a recitation class and assisting the students during open hours"
       ]
     },
     {
@@ -108,17 +109,17 @@
       ]
     },
     {
-      "company": "UH Manoa ICS Department",
-      "position": "Lab Assistant",
+      "company": "McDonald's Employee",
+      "position": "Crew Worker",
       "website": "",
-      "startDate": "2021",
+      "startDate": "2018-06-20",
       "endDate": "Present",
-      "summary": "Learning Assistant for the course ICS 111: Introduction to Computer Science I",
+      "summary": "Interacting extensively with customers, taking order and serving food",
       "highlights": [
-        "Assisting students with questions regarding homework and course material",
-        "Leading a recitation class and assisting the students during open hours"
+        "Done cashier work and order taking to a great extent",
+        "Trained and supervised new employees"
       ]
-    }
+    },
   ],
   "awards": [
     {
@@ -130,8 +131,8 @@
     {
       "title": "2019 McDonald's Regionals Scholarship Winner",
       "date": "2019",
-      "awarder": "McDonalds",
-      "summary": "This scholarship is awarded to senior high school students in Hawaii who have demonstrated good or above work capibilites at McDonalds. This scholarship is awareded to 10 people."
+      "awarder": "McDonald's",
+      "summary": "This scholarship is awarded to senior high school students in Hawaii who have demonstrated good or above work capabilities at Mcdonald's. This scholarship is awareded to 10 people."
     }
   ],
   "references": [
