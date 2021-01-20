@@ -106,6 +106,18 @@
         "Done cashier work",
         "Make and recieve phone calls"
       ]
+    },
+    {
+      "company": "UH Manoa ICS Department",
+      "position": "Lab Assistant",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Learning Assistant for the course ICS 111: Introduction to Computer Science I",
+      "highlights": [
+        "Assisting students with questions regarding homework and course material",
+        "Leading a recitation class and assisting the students during open hours"
+      ]
     }
   ],
   "awards": [
