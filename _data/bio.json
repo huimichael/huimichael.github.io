@@ -53,6 +53,8 @@
         "Java",
         "Javascript(Meteor, MongoDB, Semantic UI)",
         "HTML/CSS",
+        "mySQL",
+        "PL/SQL"
       ]
     },
     {
@@ -89,7 +91,7 @@
       "position": "Lab Assistant",
       "website": "",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2021",
       "summary": "Learning Assistant for the course ICS 111: Introduction to Computer Science I for Spring 2021",
       "highlights": [
         "Assisting students with questions regarding homework and course material",
