@@ -87,6 +87,17 @@
   ],
   "work": [
     {
+      "company": "STAR: A University of Hawaii Venture",
+      "position": "STAR SQL Assistant Programmer",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Assist in designing SQL procedures that interface with the Oracle based student information system",
+      "highlights": [
+        "Manage database and create/modify procedures",
+      ]
+    },
+    {
       "company": "UH Manoa ICS Department",
       "position": "Lab Assistant",
       "website": "",
@@ -99,23 +110,11 @@
       ]
     },
     {
-      "company": "UH Manoa Campus Center Ticket, Information & ID Office",
-      "position": "Service Associate",
-      "website": "",
-      "startDate": "2020",
-      "endDate": "2020",
-      "summary": "Helping students who have problems with ID's and meal plans",
-      "highlights": [
-        "Done cashier work",
-        "Make and recieve phone calls"
-      ]
-    },
-    {
       "company": "McDonald's Employee",
       "position": "Crew Worker",
       "website": "",
-      "startDate": "2018-06-20",
-      "endDate": "Present",
+      "startDate": "2018",
+      "endDate": "2021",
       "summary": "Interacting extensively with customers, taking order and serving food",
       "highlights": [
         "Done cashier work and order taking to a great extent",
