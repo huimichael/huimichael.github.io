@@ -53,8 +53,7 @@
         "Java",
         "Javascript(Meteor, MongoDB, Semantic UI, React)",
         "HTML/CSS",
-        "mySQL",
-        "PL/SQL"
+        "SQL"
       ]
     },
     {
@@ -64,7 +63,8 @@
         "Windows 10",
         "Git/GitHub",
         "g++",
-        "Intellij"
+        "Intellij",
+        "Microsoft SQL Server Management Studio"
       ]
     }
   ],
